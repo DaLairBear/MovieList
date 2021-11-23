@@ -1,7 +1,6 @@
 const message = document.querySelector('#message')
 
 
-
 const addMovie  = (event) =>{
     event.preventDefault()
     let inputField = document.querySelector('input')
